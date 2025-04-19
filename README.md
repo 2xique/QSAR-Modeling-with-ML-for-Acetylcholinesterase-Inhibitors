@@ -1,1 +1,0 @@
-# QSAR-Modeling-with-ML-for-Acetylcholinesterase-Inhibitors
